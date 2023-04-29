@@ -1,16 +1,16 @@
---LCD(O•HƒgƒŒƒr)ÄŒ»—pƒIƒuƒWƒFƒNƒg Ver0.0.1
+--LCD(ä¸‰è±ãƒˆãƒ¬ãƒ“)å†ç¾ç”¨ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆ Ver0.13
 
 
-@æŠ·ˆÄ“à
-obj.load("figure","lŠpŒ`",0xffffff,65,4000)
-obj.effect("ƒOƒ‰ƒf[ƒVƒ‡ƒ“","color",0xf6f6f6,"color2",0xcccccc)
-obj.effect("‰æ‘œƒ‹[ƒv","‰¡‰ñ”",32)
+@ä¹—æ›æ¡ˆå†…
+obj.load("figure","å››è§’å½¢",0xffffff,65,4000)
+obj.effect("ã‚°ãƒ©ãƒ‡ãƒ¼ã‚·ãƒ§ãƒ³","color",0xf6f6f6,"color2",0xcccccc)
+obj.effect("ç”»åƒãƒ«ãƒ¼ãƒ—","æ¨ªå›æ•°",32)
 obj.draw()
 
 
 
-@æŠ·ˆÄ“à‰º‚Ì•ü
-obj.load("figure","lŠpŒ`",0x000000,2,4000)
-obj.effect("‰æ‘œƒ‹[ƒv","‰¡‰ñ”",100)
-obj.effect("Šg‘å—¦","X",800.0)
+@ä¹—æ›æ¡ˆå†…ä¸‹ã®é»’ç·š
+obj.load("figure","å››è§’å½¢",0x000000,2,4000)
+obj.effect("ç”»åƒãƒ«ãƒ¼ãƒ—","æ¨ªå›æ•°",100)
+obj.effect("æ‹¡å¤§ç‡","X",800.0)
 obj.draw()
