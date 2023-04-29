@@ -1,0 +1,16 @@
+--LCD(三菱トレビ)再現用オブジェクト Ver0.0.1
+
+
+@乗換案内
+obj.load("figure","四角形",0xffffff,65,4000)
+obj.effect("グラデーション","color",0xf6f6f6,"color2",0xcccccc)
+obj.effect("画像ループ","横回数",32)
+obj.draw()
+
+
+
+@乗換案内下の黒線
+obj.load("figure","四角形",0x000000,2,4000)
+obj.effect("画像ループ","横回数",100)
+obj.effect("拡大率","X",800.0)
+obj.draw()
